@@ -3,13 +3,9 @@
 **`Estudante`**
 
 Iniciando na programação e desenvolvimento web. Interessado por automação, eletrônica, backend e IA.
+<br>
 
-<br>
-<p align = "left">
-  <img width = "47%" src="https://github-readme-stats.vercel.app/api?username=celinmagro&show_icons=true&theme=swift&count_private=true&hide=prs" />
-  <img width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinmagro&layout=compact&theme=swift)](https://github.com/celinmagro/github-readme-stats" />
-</p>
-<br>
+| <a href="https://github.com/celinmagro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=celinmagro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo's github stats" /></a> | <a href="https://github.com/celinmagro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinmagro&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ---
 
