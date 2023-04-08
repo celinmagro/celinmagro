@@ -23,3 +23,5 @@ Iniciando na programação e desenvolvimento web. Interessado por automação, e
 </p>
 
 #
+
+![Snake animation](https://github.com/celinmagro/celinmagro/blob/output/github-contribution-grid-snake.svg)
