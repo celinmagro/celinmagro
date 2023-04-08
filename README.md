@@ -25,4 +25,6 @@ Iniciando na programação e desenvolvimento web. Interessado por automação, e
 
 #
 
-  <img align="center" alt="monkeydeveloper" src="monkeydeveloper.gif">
+<div align="center">
+  <img alt="monkeydeveloper" src="monkeydeveloper.gif">
+</div>
