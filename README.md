@@ -11,7 +11,7 @@ Iniciando na programação e desenvolvimento web. Interessado por automação, e
 ---
 
 ### 👨‍💻 Linguagens e Ferramentas em estudo
-<p>
+<div>
   <img alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -20,6 +20,8 @@ Iniciando na programação e desenvolvimento web. Interessado por automação, e
   <img alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</p>
+</div>
 
 #
+
+![monkey-type](https://user-images.githubusercontent.com/79673244/230743527-93b40108-1ded-4fad-be1e-f3a1a64f8820.gif)
