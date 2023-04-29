@@ -1,6 +1,6 @@
 # Marcelo😎🤘
 
-**`Estudante`**
+**`Estudante de Engenharia Elétrica`**
 
 Iniciando na programação e desenvolvimento web. Interessado por automação, eletrônica, backend e IA.
 <br>
