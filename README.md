@@ -1,6 +1,6 @@
 # Marcelo😎🤘
 
-**`Estudante de Engenharia Elétrica`**
+**`Estudante de Engenharia Elétrica (UFPI)`**
 
 Iniciando na programação e desenvolvimento web. Interessado por automação, eletrônica, backend e IA.
 <br>
