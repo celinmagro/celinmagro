@@ -5,7 +5,7 @@
 Iniciando na programação e desenvolvimento web. Interessado por automação, eletrônica, backend e IA.
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomagro&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&hide=prs" alt="Marcelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomagro&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomagro&rank_icon=github&include_all_commits=true&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&hide=prs" alt="Marcelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomagro&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
